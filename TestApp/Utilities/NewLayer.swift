@@ -14,4 +14,8 @@ class NewLayer {
         
     }
     
+    func foo2() {
+        
+    }
+    
 }

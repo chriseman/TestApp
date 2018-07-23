@@ -7,3 +7,19 @@
 //
 
 import Foundation
+
+class NetworkLayer {
+    
+    func foo() {
+        
+    }
+    
+    func foo2() {
+        
+    }
+    
+    private func foo3() {
+    
+    }
+    
+}

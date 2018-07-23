@@ -18,7 +18,7 @@ class NetworkLayer {
         
     }
     
-    func foo3(newParam: String, param2: String) {
+    private func foo3(newParam: String, newParam2: String) {
     
     }
     

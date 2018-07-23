@@ -18,4 +18,8 @@ class NewLayer {
         
     }
     
+    func foo3() {
+        
+    }
+    
 }

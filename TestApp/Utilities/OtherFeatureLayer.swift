@@ -1,5 +1,5 @@
 //
-//  NewFeatureLayer.swift
+//  OtherFeatureLayer.swift
 //  TestApp
 //
 //  Created by Chris on 23/07/2018.
@@ -8,13 +8,9 @@
 
 import Foundation
 
-class NewFeatureLayer {
+class OtherFeatureLayer {
     
     func foo() {
-        
-    }
-    
-    private func foo2() {
         
     }
     

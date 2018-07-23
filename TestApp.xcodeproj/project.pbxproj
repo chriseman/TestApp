@@ -15,6 +15,7 @@
 		83924AAA21067309009DA1D7 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83924AA921067309009DA1D7 /* TestViewController.swift */; };
 		83924AAC21067319009DA1D7 /* NetworkLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83924AAB21067319009DA1D7 /* NetworkLayer.swift */; };
 		83924AAE210674EB009DA1D7 /* NewFeatureLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83924AAD210674EB009DA1D7 /* NewFeatureLayer.swift */; };
+		83924AB0210675A6009DA1D7 /* OtherFeatureLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83924AAF210675A6009DA1D7 /* OtherFeatureLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		83924AA921067309009DA1D7 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		83924AAB21067319009DA1D7 /* NetworkLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkLayer.swift; sourceTree = "<group>"; };
 		83924AAD210674EB009DA1D7 /* NewFeatureLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFeatureLayer.swift; sourceTree = "<group>"; };
+		83924AAF210675A6009DA1D7 /* OtherFeatureLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherFeatureLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				83924AAB21067319009DA1D7 /* NetworkLayer.swift */,
 				83924AAD210674EB009DA1D7 /* NewFeatureLayer.swift */,
+				83924AAF210675A6009DA1D7 /* OtherFeatureLayer.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				83924A982106711E009DA1D7 /* ViewController.swift in Sources */,
 				83924AAA21067309009DA1D7 /* TestViewController.swift in Sources */,
 				83924A962106711E009DA1D7 /* AppDelegate.swift in Sources */,
+				83924AB0210675A6009DA1D7 /* OtherFeatureLayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
